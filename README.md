@@ -5,8 +5,7 @@ This is the capstone project for my CS degree program that I am currently workin
 We are still in the planning phase. Code and other specifics are under NDA. Here, I've provided an outline of the product we're developing, a link to the company website, and a link to my development blog. Come back later to see our progress.
 
 ## Outline
-My team is charged with developing a full-stack, self-serve, multi-tenant, Software-as-a-Service application that assists fire departments with medium-term risk analysis based on map and GPS data.
-UX example: the user can view maps or charts visualizing response times to different areas of town based on fire department locations.
+TBD
 
 ## Company Site
 [Levrum Data Technologies](https://www.levrum.com/)
