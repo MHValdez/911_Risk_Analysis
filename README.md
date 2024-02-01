@@ -1,14 +1,40 @@
+
 # SaaS Application for Fire Department 911 Risk Analysis
+
 Medium-term risk analysis SaaS application for Levrum Data Technologies
 
-This is the capstone project for my CS degree program that I am currently working on as part of a six-student team.
-We are still in the planning phase. Code and other specifics are under NDA. Here, I've provided an outline of the product we're developing, a link to the company website, and a link to my development blog. Come back later to see our progress.
+This is the capstone project for my CS degree program that I worked on as part of a six-student team.
 
 ## Outline
-TBD
 
-## Company Site
-[Levrum Data Technologies](https://www.levrum.com/)
+The application takes data from a relational database (Microsoft SQL Server) of municipalities and fire stations and a NoSQL (MongoDB) collection of map nodes. It visualizes response times for a selected collection of stations.
+
+The team was given a large codebase in two disparate GitHub repos. These had been developed separately by previous teams.
+
+The team:
+- Organized into two groups: database and control plane
+- Managed our planning and execution within an Agile Scrum framework
+- Learned C#/.NET
+- Learned Entity Framework
+- Learned Auth0 and Stripe APIs
+- Familiarized ourselves with the code bases
+- Implemented a SQL solution for relational data that had been stored in CSV files
+- Implemented GridFS to store large, non-relational collections in chunks on MongoDB
+- Implemented Auth0 login
+- Implemented Stripe payment
+- Created a migration plan for the two repositories (both contained unique, desired functionality)
+- Documented installation and usage
+
+Our sponsor contacts at Levrum informed us they were impressed by our autonomy in planning and execution and happy with our work.
+
+## Demo Video
+
+[CS467 Team Project Demo Video (YouTube)](https://www.youtube.com/watch?v=rNOEPirSLsM)
 
 ## Development Blog
+
 [Capstone Chronicle](https://blogs.oregonstate.edu/valdemar/)
+
+## Company Site
+
+[Levrum Data Technologies](https://www.levrum.com/)
