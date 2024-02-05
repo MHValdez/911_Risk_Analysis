@@ -22,10 +22,12 @@ The team:
 - Implemented GridFS to store large, non-relational collections in chunks on MongoDB
 - Implemented Auth0 login
 - Implemented Stripe payment
+- Wrote comprehensive tests
+- Performed code reviews
 - Created a migration plan for the two repositories (both contained unique, desired functionality)
 - Documented installation and usage
 
-Our sponsor contacts at Levrum informed us they were impressed by our autonomy in planning and execution and happy with our work.
+Our sponsor contacts at Levrum informed us they were impressed by our autonomy in planning and execution and were happy with our work.
 
 ## Demo Video
 
