@@ -9,6 +9,8 @@ This is the capstone project for my CS degree program that I worked on as part o
 
 The application takes data from a relational database (Microsoft SQL Server) of municipalities and fire stations and a NoSQL (MongoDB) collection of map nodes. It visualizes response times for a selected collection of stations.
 
+![Screenshot 2023-11-02 191522](https://github.com/MHValdez/911_Risk_Analysis/assets/14323612/60fb1f91-98ba-4d76-b617-9630685c7e67)
+
 The team was given a large codebase in two disparate GitHub repos. These had been developed separately by previous teams.
 
 The team:
