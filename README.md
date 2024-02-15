@@ -40,6 +40,10 @@ Our sponsor contacts at Levrum informed us they were impressed by our autonomy i
 
 [CS467 Team Project Demo Video (YouTube)](https://www.youtube.com/watch?v=rNOEPirSLsM)
 
+## Project Continuance Report
+
+[SaaS_App_Project_Continuance.pdf](https://github.com/MHValdez/911_Risk_Analysis/blob/main/SaaS_App_Project_Continuance.pdf)
+
 ## Development Blog
 
 [Capstone Chronicle](https://blogs.oregonstate.edu/valdemar/)
