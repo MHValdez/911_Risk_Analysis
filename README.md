@@ -3,7 +3,7 @@
 
 Medium-term risk analysis SaaS application for Levrum Data Technologies
 
-This is the capstone project for my CS degree program that I worked on as part of a six-student team.
+This is the 8-week capstone project for my CS degree program that I worked on as part of a 6-student team.
 
 ## Outline
 
